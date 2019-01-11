@@ -1,2 +1,19 @@
 Dette er bare en liten test for å lage filer i CLI.
 
+
+
+Disse linjene fra 1-4 vil jeg beholde.
+
+
+1 .as djkabldkasjbdkjasbdjk
+2 klsajldjaskldjalskdj
+3 løaksødlkasøldkasøld
+4 lkasjdlajsdljasld
+
+
+Disse linjene fra 1-4 vil jeg ikke beholde
+
+1 asdasdasd
+2asdasdsadas
+3 asdasdasdas
+4 asdasdasd
