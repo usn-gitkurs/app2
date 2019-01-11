@@ -1,0 +1,2 @@
+Dette er bare en liten test for å lage filer i CLI.
+
